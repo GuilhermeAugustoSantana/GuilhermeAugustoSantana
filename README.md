@@ -4,7 +4,7 @@
   <a href="https://github.com/GuilhermeAugustoSantana">
   <img height="180em" src="readme-mc80rc08q-guilhermeaugustosantana.vercel.app
 /api?username=GuilhermeAugustoSantana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://readme-git-main-guilhermeaugustosantana.vercel.app/api/top-langs/?username=GuilhermeAugustoSantana&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://readme-nu-eight.vercel.appreadme-nu-eight.vercel.app/api/top-langs/?username=GuilhermeAugustoSantana&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
